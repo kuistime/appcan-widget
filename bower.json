@@ -1,0 +1,22 @@
+{
+  "name": "appcan-widget",
+  "homepage": "https://github.com/kuistime/appcan-widget",
+  "authors": [
+    "mitty.q <mitty.q@outlook.com>"
+  ],
+  "description": "appcan-widget skeleton",
+  "main": "",
+  "keywords": [
+    "appcan",
+    "skeleton"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ]
+}
