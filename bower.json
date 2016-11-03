@@ -1,5 +1,6 @@
 {
   "name": "appcan-widget",
+  "version": "1.0.0",
   "homepage": "https://github.com/kuistime/appcan-widget",
   "authors": [
     "mitty.q <mitty.q@outlook.com>"
@@ -18,5 +19,8 @@
     "vendor",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "appcan-fesdk": "^1.0.0"
+  }
 }
