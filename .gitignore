@@ -1,0 +1,23 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# OSX folder configuration file
+**/.DS_Store
+# Windows folder configuration file
+**/.Thumb
+
+# WebStorm project configuration file
+**/.idea
+# AppCan project configuration file
+**/.project
+
+# Dependency directory
+# https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
+**/node_modules
+# Dependency directory
+# bower
+**/bower_components
+# Dependency directory
+# other
+source/vendor/*
+
+
